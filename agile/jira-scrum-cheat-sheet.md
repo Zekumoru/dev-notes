@@ -4,7 +4,7 @@
 
 This is my personal notes learning Jira through this video [Ultimate Jira Tutorial for Beginners (2024)](https://www.youtube.com/watch?v=8jWKwiIcWPI).
 
-I also went ahead and asked ChatGPT to solidify my understand which you can find the chat here: [Jira/Scrum Clarification](https://chatgpt.com/share/67517eb5-5f1c-8001-9ba2-c799a1e683fc).
+I also went ahead and asked ChatGPT to solidify my understanding which you can find the chat here: [Jira/Scrum Clarification](https://chatgpt.com/share/67517eb5-5f1c-8001-9ba2-c799a1e683fc).
 
 ## Contents
 
