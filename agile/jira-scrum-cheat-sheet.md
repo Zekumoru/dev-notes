@@ -6,6 +6,10 @@ This is my personal notes learning Jira through this video [Ultimate Jira Tutori
 
 I also went ahead and asked ChatGPT to solidify my understanding which you can find the chat here: [Jira/Scrum Clarification](https://chatgpt.com/share/67517eb5-5f1c-8001-9ba2-c799a1e683fc).
 
+If you find the time, I suggest you to read the conversation I had with ChatGPT. You can also find there the difference between Trello and Jira albeit implied implicitly.
+
+> **What's Scrum?** Scrum is an Agile framework for managing projects, especially software development. **And how does it relate to Jira?** Jira is tailored to implement Scrum by providing features to manage and visualize backlogs, sprints, workflows, and reports, making it easier to practice Scrum systematically.
+
 ## Contents
 
 - [Concepts](#concepts)
