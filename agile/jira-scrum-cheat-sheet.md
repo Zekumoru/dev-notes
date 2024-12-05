@@ -6,6 +6,30 @@ This is my personal notes learning Jira through this video [Ultimate Jira Tutori
 
 I also went ahead and asked ChatGPT to solidify my understand which you can find the chat here: [Jira/Scrum Clarification](https://chatgpt.com/share/67517eb5-5f1c-8001-9ba2-c799a1e683fc).
 
+## Contents
+
+- [Concepts](#concepts)
+  - [Roadmap](#roadmap)
+  - [Backlog](#backlog)
+  - [Issue](#issue)
+  - [Epic](#epic)
+  - [Story](#story)
+  - [Story Points](#story-points)
+  - [Task](#task)
+  - [Sprint](#sprint)
+  - [Timeline View](#timeline-view)
+  - [Board View](#board-view)
+  - [Project Pages](#project-pages)
+  - [Retrospective](#retrospective)
+  - [Keys](#keys)
+  - [Workflow](#workflow)
+  - [Dashboards](#dashboards)
+- [FAQs](#faqs)
+  - [What's "is blocked by"?](#whats-is-blocked-by)
+  - [What's Confluence?](#whats-confluence)
+  - [Can tasks be broken into stories?](#can-tasks-be-broken-into-stories)
+  - [Do keys change?](#do-keys-change)
+
 ## Concepts
 
 ### Roadmap
@@ -102,15 +126,19 @@ I also went ahead and asked ChatGPT to solidify my understand which you can find
 
 ## FAQs
 
-1. **What's "is blocked by"?**
-   - It indicates that one issue cannot proceed until another is completed.
-   - Example: Feature A *is blocked by* Backend B.
+### What's "is blocked by"?
 
-2. **What's Confluence?**
-   - A team collaboration tool for creating and sharing pages like documentation, meeting notes, or retrospectives.
+- It indicates that one issue cannot proceed until another is completed.
+- Example: Feature A *is blocked by* Backend B.
 
-3. **Can tasks be broken into stories?**
-   - No. Tasks are the smallest unit of work and always belong to a story or an epic.
+### What's Confluence?
 
-4. **Do keys change?**
-   - Keys are unique and consistent within a project. They only change if the project key is updated.
+- A team collaboration tool for creating and sharing pages like documentation, meeting notes, or retrospectives.
+
+### Can tasks be broken into stories?
+
+- No. Tasks are the smallest unit of work and always belong to a story or an epic.
+
+### Do keys change?
+
+- Keys are unique and consistent within a project. They only change if the project key is updated.
